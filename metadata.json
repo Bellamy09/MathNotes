@@ -1,0 +1,7 @@
+{
+  "name": "MathNote AI",
+  "description": "A specialized AI note-taking app for math and technical lectures that converts spoken formulas into LaTeX and supports Markdown structured writing.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
